@@ -1,3 +1,4 @@
+# FastCart Admin Dashboard
 This project was developed as an extension to https://github.com/GrimmWeeper/1DISFastCart, which was originally designed for our **50.001 Introduction to Information Systems & Programming** module in **SUTD**.
 
 ## Description
@@ -5,7 +6,7 @@ FastCart is an innovative solution that provides supermarkets with an integrated
 
 This standalone dashboard facilitates system transactions for an administrative role within the FastCart System, such as managing the product catalog and maintaining inventory in real-time.
 
-## FastCart Collaborators
+## FastCart Authors
 - [Alice Zhang](https://github.com/alicezhangjy)
 - [Wee Ping](https://github.com/GrimmWeeper)
 - [Aaron Reul Khoo](https://github.com/aaronreulkhoo)
